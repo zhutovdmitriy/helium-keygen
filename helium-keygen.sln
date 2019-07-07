@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helium-keygen", "helium-keygen.csproj", "{3E18B0BF-9C5C-4ABF-BAE0-821670B4087F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E18B0BF-9C5C-4ABF-BAE0-821670B4087F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E18B0BF-9C5C-4ABF-BAE0-821670B4087F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E18B0BF-9C5C-4ABF-BAE0-821670B4087F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E18B0BF-9C5C-4ABF-BAE0-821670B4087F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {417D8E75-9739-43D2-B690-BC25189425DB}
+	EndGlobalSection
+EndGlobal
